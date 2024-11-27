@@ -1,8 +1,4 @@
-pandas==1.5.3
-pipdeptree | grep pickle5
-pip install --upgrade <library_name>
---only-binary=pickle5
-
+streamlit
 
 
 

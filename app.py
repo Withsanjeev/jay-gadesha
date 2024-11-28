@@ -19,7 +19,7 @@ def recommendation(title, threshold=80):
         if score >= threshold:
             jobs.append(existing_title)
     if not jobs:
-        st.write("I am enil avaible .")
+        st.write("No realeated workd avaiable currently .")
     return jobs
 
 # Streamlit app
